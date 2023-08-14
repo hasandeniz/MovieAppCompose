@@ -20,13 +20,6 @@ To use the Movies App, follow these steps:
 3. Wait for the search results to load.
 4. Click on a movie to view its details.
 
-
-## Demonstration
-
-
-TBA
-
-
 ## Installation
 
 To install the Movie App, follow these steps:
