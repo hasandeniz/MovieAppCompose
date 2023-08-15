@@ -19,6 +19,14 @@ To use the Movies App, follow these steps:
 2. Enter a movie title in the search bar and press search button.
 3. Wait for the search results to load.
 4. Click on a movie to view its details.
+   
+## Screenshots
+
+### MovieListScreen
+<img src="https://github.com/hasandeniz/MovieAppCompose/assets/37264787/91bf4dd2-456e-4b36-b4b8-db7778f7203d" title="MovieListScreen" width="250">
+
+### MovieDetailScreen
+<img src="https://github.com/hasandeniz/MovieAppCompose/assets/37264787/f8f5113a-8f0b-4901-af97-b65d46b167a8" title="MovieDetailScreen" width="250">
 
 ## Installation
 
